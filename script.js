@@ -34,7 +34,7 @@ sections.forEach((section) => sectionObserver.observe(section));
 
 // IMPORTANT: Replace these sample contact details with your real details.
 const emailAddress = "your.email@example.com";
-const whatsappNumber = "910000000000"; // Country code + number, digits only
+const whatsappNumber = "918015001405"; // Country code + number, digits only
 
 document.getElementById("emailButton").href = `mailto:${emailAddress}`;
 document.getElementById("whatsappButton").href =
