@@ -33,7 +33,7 @@ const sectionObserver = new IntersectionObserver((entries) => {
 sections.forEach((section) => sectionObserver.observe(section));
 
 // IMPORTANT: Replace these sample contact details with your real details.
-const emailAddress = "your.email@example.com";
+const emailAddress = "mkkishore2006@gmial.com";
 const whatsappNumber = "918015001405"; // Country code + number, digits only
 
 document.getElementById("emailButton").href = `mailto:${emailAddress}`;
